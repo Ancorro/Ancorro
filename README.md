@@ -1,48 +1,53 @@
-<h1 align="center">Hi, I'm Steven 👋</h1>
+# Steven Cleasby-Mayeda
 
-<p align="center">
-  <b>AI / ML Engineer · M.Eng. Computer Science (AI) @ Oregon State University</b><br>
-  Transformer architectures · agentic systems · applied ML research
-</p>
+Computer science student at Oregon State University (M.Eng., AI focus), building and
+researching machine learning systems. Main areas of work: transformer architectures,
+agentic pipelines, and applied ML.
 
-<p align="center">
-  <a href="https://ancorro.github.io/">🌐 Portfolio</a> ·
-  <a href="mailto:stevencleasbymayeda@gmail.com">✉️ Email</a> ·
-  📍 Corvallis, OR
-</p>
+- Portfolio: https://ancorro.github.io
+- Email: stevencleasbymayeda@gmail.com
+- Location: Corvallis, OR
 
----
+## Projects
 
-I design model architectures, run careful ablations, and turn research ideas into working
-systems. Currently finishing a B.S. in Applied Computer Science (AI focus) and continuing
-into an M.Eng. at Oregon State University.
+### Parallel Logic Expert with Operator Routing
+PyTorch. A logic-augmented transformer pathway that routes token representations through
+differentiable fuzzy AND/OR/NOT operators, with learned operator routing and backbone
+cross-attention. Includes a full training and evaluation pipeline and matched-budget
+ablations against baseline transformers.
 
-### 🚀 Featured projects
+Project page: https://ancorro.github.io/logic-expert-public/
+Code: https://github.com/Ancorro/logic-expert-public
 
-| Project | What it is | Links |
-|---|---|---|
-| **Parallel Logic Expert with Operator Routing** | A logic-augmented transformer pathway routing token representations through differentiable fuzzy AND/OR/NOT operators with learned routing and backbone cross-attention. Full PyTorch pipeline + matched-budget ablations. | [🌐 Page](https://ancorro.github.io/logic-expert-public/) · [💻 Code](https://github.com/Ancorro/logic-expert-public) |
-| **Guidance — Agentic Field Technician Assistant** 🏆 | 1st place (beginner track), BeaverHacks 2026. Multimodal Gemini agent: image/audio input, transcription, local RAG, function calling, and image editing for step-by-step manual guidance. | [💻 Code](https://github.com/ekanshArora123/beaverhacks2026) · [🎥 Demo](https://lnkd.in/gCfc3Sih) · [🏅 Submission](https://lnkd.in/gMxyVKYR) |
-| **Hanford Waste-Glass Vitrification Tool** | Lead engineer (senior capstone) on a Python app for safety-critical waste-vitrification calculations, with auditable data pipelines and a documented developer handover. | [🌐 Page](https://hlwa-portfolio.github.io/) |
-| **Real-Time Eye Tracking** | Eye-landmark extraction prototype using Google MediaPipe + FaceMesh. | _private prototype_ |
+### Guidance: Agentic Field Technician Assistant
+Gemini, Python. First place (beginner track) at BeaverHacks 2026. A multimodal agent for
+field technicians that combines image and audio input, transcription, local
+retrieval-augmented generation, function calling, and image editing to produce
+step-by-step guidance from equipment manuals. Built in 24 hours.
 
-### 🛠️ Tech
+Code: https://github.com/ekanshArora123/beaverhacks2026
+Demo: https://lnkd.in/gCfc3Sih
+Submission: https://lnkd.in/gMxyVKYR
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+### Hanford Waste-Glass Vitrification Tool
+Python. Lead engineer on a senior capstone building a Python application for
+safety-critical waste-vitrification calculations, with auditable data pipelines and a
+documented developer handover.
 
-**Focus areas:** transformer design · training & evaluation · ablation studies · agentic & multimodal pipelines · RAG · optimization & statistics
+Project page: https://hlwa-portfolio.github.io/
 
-### 🎓 Education
-- **M.Eng. Computer Science** (AI focus) — Oregon State University · GPA 3.74 · *expected Jun 2027*
-- **B.S. Applied Computer Science** (AI focus) — Oregon State University · GPA 3.63 · Honor Roll (7 terms) · *Jun 2026*
+### Real-Time Eye Tracking
+Python, MediaPipe. Eye-landmark extraction prototype built on MediaPipe and FaceMesh.
 
----
+## Skills
 
-<p align="center"><i>More at <a href="https://ancorro.github.io/">ancorro.github.io</a></i></p>
+- Languages: Python, C
+- Machine learning: PyTorch, Hugging Face Transformers, architecture design, training and evaluation, ablation studies
+- Agents: agentic systems, multimodal pipelines, retrieval-augmented generation
+- Data: NumPy, optimization, statistics, feature engineering, data cleaning
+- Systems: Linux, CUDA, Git
+
+## Education
+
+- M.Eng. Computer Science (AI focus), Oregon State University. GPA 3.74. Expected 2027.
+- B.S. Applied Computer Science (AI focus), Oregon State University. GPA 3.63, Honor Roll (7 terms). 2026.
