@@ -5,7 +5,8 @@ researching machine learning systems. Main areas of work: transformer architectu
 agentic pipelines, and applied ML.
 
 - Portfolio: https://ancorro.github.io
-- Email: stevencleasbymayeda@gmail.com
+- Personal Email: steven.cleasby.mayeda@gmail.com
+- University Email: cleasbys@oregonstate.edu
 - Location: Corvallis, OR
 
 ## Projects
