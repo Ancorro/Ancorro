@@ -42,7 +42,7 @@ Python, MediaPipe. Eye-landmark extraction prototype built on MediaPipe and Face
 
 ## Skills
 
-- Languages: Python, C
+- Best Languages: Python, C
 - Machine learning: PyTorch, Hugging Face Transformers, architecture design, training and evaluation, ablation studies
 - Agents: agentic systems, multimodal pipelines, retrieval-augmented generation
 - Data: NumPy, optimization, statistics, feature engineering, data cleaning
