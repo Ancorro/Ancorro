@@ -17,7 +17,7 @@ differentiable fuzzy AND/OR/NOT operators, with learned operator routing and bac
 cross-attention. Includes a full training and evaluation pipeline and matched-budget
 ablations against baseline transformers.
 
-Project page: https://ancorro.github.io/logic-expert-public/
+Project page: https://ancorro.github.io/logic-expert/
 Code: https://github.com/Ancorro/logic-expert-public
 
 ### Guidance: Agentic Field Technician Assistant
