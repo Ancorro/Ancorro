@@ -11,6 +11,17 @@ agentic pipelines, and applied ML.
 
 ## Projects
 
+### ESM3 Representations and Whole-Sequence Models for HIV bnAb Modeling
+Python, PyTorch, ESM3, LoRA. A course research project evaluating whether frozen and
+OAS-adapted ESM3 protein-language-model embeddings support antibody-centric modeling of HIV
+broadly neutralizing antibodies from heavy-chain sequence alone, under metadata-derived
+lineage grouping with group-bootstrap uncertainty. Compares frozen ESM3, a LoRA-adapted
+variant, and a whole-sequence categorical VAE on broad-vs-narrow classification, breadth
+regression, and a known-intermediate lineage interpolation test.
+
+Project page: https://ancorro.github.io/esm3-banb/
+Code: private (course work)
+
 ### Parallel Logic Expert with Operator Routing
 PyTorch. A logic-augmented transformer pathway that routes token representations through
 differentiable fuzzy AND/OR/NOT operators, with learned operator routing and backbone
