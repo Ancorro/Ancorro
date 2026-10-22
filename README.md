@@ -61,5 +61,5 @@ Python, MediaPipe. Eye-landmark extraction prototype built on MediaPipe and Face
 
 ## Education
 
-- M.Eng. Computer Science (AI focus), Oregon State University. GPA 3.74. Expected 2027.
+- M.S. Artificial Intelligence Oregon State University. GPA 3.80, Expected 2027.
 - B.S. Applied Computer Science (AI focus), Oregon State University. GPA 3.63, Honor Roll (7 terms). 2026.
