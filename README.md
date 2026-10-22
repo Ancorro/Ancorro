@@ -1,6 +1,6 @@
 # Steven Cleasby-Mayeda
 
-Computer science student at Oregon State University (M.Eng., AI focus), building and
+Computer science student at Oregon State University (MS AI), building and
 researching machine learning systems. Main areas of work: transformer architectures,
 agentic pipelines, and applied ML.
 
