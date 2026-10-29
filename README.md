@@ -33,7 +33,7 @@ code, and a split probe shows the content does cross: 91% with the right KV cach
 agent, +0.1 and -0.2 points, so passing state does not beat one model doing the work.
 The latent sender is 19 times faster and uses 2.4 times fewer FLOPs.
 
-Paper draft in progress.
+Code: https://github.com/Ancorro/latent-comm-public · Paper draft in progress.
 
 ### Deck: Remote Control Distributed Agents
 Python, tmux, Rust. Built a web app that runs on each of my computers and gives my phone
@@ -58,6 +58,8 @@ screen into numbered items and choosing the next action. On 60 OSWorld multi-app
 plain single-loop design scored 27, ahead of the two-stage planner stacks at 16 and 20;
 the difference between those two is within noise at p = 0.42 by an exact McNemar test.
 The fast decision model answers in about 0.5 s per step against 5 s for the vision model.
+
+Code: https://github.com/Ancorro/computer-use-stack-public
 
 ### AI Modeling for HIV Antibody Research
 ESM3, LoRA, XGBoost. Predicted broadly neutralizing antibody breadth from heavy-chain
